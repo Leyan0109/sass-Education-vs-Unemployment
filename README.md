@@ -68,12 +68,12 @@ India demonstrates a rising unemployment rate as education levels increase—hig
 
 ## 📦 Repository Structure
 
-```
-bowman-farm-optimisation/
-1. models/              # Python scripts for ILP model (PuLP)
-2. analysis report/            # Parametric analysis results and graphs
-3. README.md            # Project documentation (this file)
-```
+edu-unemployment-asia/
+1. data/                 # Raw and cleaned CSV datasets (2019–2022)
+2. spss-files/           # SPSS syntax files, output files, and .sav dataset
+3. analysis-report/      # Summary tables, charts, and key findings
+4. README.md             # Project documentation (this file)
+
 ---
 
 ## 📌 Conclusion
